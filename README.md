@@ -2,4 +2,4 @@
 
 Primeiro repositório de Git e GitHub
 
-Essa linha foi feita diretament pelo site
+Essa linha foi feita diretamente pelo site
